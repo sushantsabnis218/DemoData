@@ -1,5 +1,6 @@
 {
   "Post": {
+    "_id":1,
     "title": "string",
     "views": "int",
     "published": "boolean",
